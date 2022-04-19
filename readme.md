@@ -1,6 +1,6 @@
 ## Domain! [Stuiverpaperwallet.ga](https://stuiverpaperwallet.ga)
 
-# Dogecoin Paper Wallet
+# Stuiver Paper Wallet
 - [Download ZIP](https://???paperwallet/archive/master.zip)
 
 *This is a fork of nsfmc's [paperwallet](https://github.com/nsfmc/paperwallet), which is a fork of cantonbecker's [bitcoinpaperwallet](https://github.com/cantonbecker/bitcoinpaperwallet) JavaScript powered offline bitcoin address generator. 
