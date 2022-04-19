@@ -1,12 +1,9 @@
-**⚠️⚠️⚠️ Please note! The domain name _dogecoinpaperwallet.net_ was previously associated with this project, but I have let it expire. If someone new re-registers that domain, it is in _no way_ affiliated with me. Proceed with caution. ⚠️⚠️⚠️**
+## Domain! [Stuiverpaperwallet.ga](https://stuiverpaperwallet.ga)
 
-## New domain! [dogecoinpaperwallet.org](https://dogecoinpaperwallet.org)
-
-![wow-such-money](https://f.v1.n0.cdn.getcloudapp.com/items/3W2O3D1n2B3U1Z3y0i3Z/wow-such-doge.jpg)
 # Dogecoin Paper Wallet
-- [Download ZIP](https://github.com/wellsriley/dogecoinpaperwallet/archive/master.zip)
+- [Download ZIP](https://???paperwallet/archive/master.zip)
 
-*This is a fork of nsfmc's [paperwallet](https://github.com/nsfmc/paperwallet), which is a fork of cantonbecker's [bitcoinpaperwallet](https://github.com/cantonbecker/bitcoinpaperwallet) JavaScript powered offline bitcoin address generator. Please forgive the lack of Dogespeak in this README – this stuff is important.*
+*This is a fork of nsfmc's [paperwallet](https://github.com/nsfmc/paperwallet), which is a fork of cantonbecker's [bitcoinpaperwallet](https://github.com/cantonbecker/bitcoinpaperwallet) JavaScript powered offline bitcoin address generator. 
 
 ### Wow. Very Security
 After downloading the ZIP package for this generator, you should find a file
